@@ -41,8 +41,134 @@ Transmission Date</th>
 
             </tr>
           </thead>
-          <tbody>
+           <tbody>
             <tr>
+              <td>5tfcz5anxhx057724</td>
+              <td>233442A</td>
+              <td> 17114</td>
+              <td>KBN Merchnadises Inc.</td>
+              <td>&nbsp;</td>
+              <td>A - Retail Sale</td>
+              <td>2016-11-29</td>
+              <td>2016-11-08</td>
+              <td>Error(s) 
+Detected</td>
+<td>2016-11-03</td>
+<td>2016-11-03</td>
+              </tr>
+              <tr>
+              <td>5tfcz5anxhx057724</td>
+              <td>233442A</td>
+              <td> 17114</td>
+              <td>KBN Merchnadises Inc.</td>
+              <td>&nbsp;</td>
+              <td>A - Retail Sale</td>
+              <td>2016-11-29</td>
+              <td>2016-11-08</td>
+              <td>Error(s) 
+Detected</td>
+<td>2016-11-03</td>
+<td>2016-11-03</td>
+              </tr>
+              <tr>
+              <td>5tfcz5anxhx057724</td>
+              <td>233442A</td>
+              <td> 17114</td>
+              <td>KBN Merchnadises Inc.</td>
+              <td>&nbsp;</td>
+              <td>A - Retail Sale</td>
+              <td>2016-11-29</td>
+              <td>2016-11-08</td>
+              <td>Error(s) 
+Detected</td>
+<td>2016-11-03</td>
+<td>2016-11-03</td>
+              </tr>
+              <tr>
+              <td>5tfcz5anxhx057724</td>
+              <td>233442A</td>
+              <td> 17114</td>
+              <td>KBN Merchnadises Inc.</td>
+              <td>&nbsp;</td>
+              <td>A - Retail Sale</td>
+              <td>2016-11-29</td>
+              <td>2016-11-08</td>
+              <td>Error(s) 
+Detected</td>
+<td>2016-11-03</td>
+<td>2016-11-03</td>
+              </tr>
+              <tr>
+              <td>5tfcz5anxhx057724</td>
+              <td>233442A</td>
+              <td> 17114</td>
+              <td>KBN Merchnadises Inc.</td>
+              <td>&nbsp;</td>
+              <td>A - Retail Sale</td>
+              <td>2016-11-29</td>
+              <td>2016-11-08</td>
+              <td>Error(s) 
+Detected</td>
+<td>2016-11-03</td>
+<td>2016-11-03</td>
+              </tr>
+              <tr>
+              <td>5tfcz5anxhx057724</td>
+              <td>233442A</td>
+              <td> 17114</td>
+              <td>KBN Merchnadises Inc.</td>
+              <td>&nbsp;</td>
+              <td>A - Retail Sale</td>
+              <td>2016-11-29</td>
+              <td>2016-11-08</td>
+              <td>Error(s) 
+Detected</td>
+<td>2016-11-03</td>
+<td>2016-11-03</td>
+              </tr>
+              <tr>
+              <td>5tfcz5anxhx057724</td>
+              <td>233442A</td>
+              <td> 17114</td>
+              <td>KBN Merchnadises Inc.</td>
+              <td>&nbsp;</td>
+              <td>A - Retail Sale</td>
+              <td>2016-11-29</td>
+              <td>2016-11-08</td>
+              <td>Error(s) 
+Detected</td>
+<td>2016-11-03</td>
+<td>2016-11-03</td>
+              </tr>
+              <tr>
+              <td>5tfcz5anxhx057724</td>
+              <td>233442A</td>
+              <td> 17114</td>
+              <td>KBN Merchnadises Inc.</td>
+              <td>&nbsp;</td>
+              <td>A - Retail Sale</td>
+              <td>2016-11-29</td>
+              <td>2016-11-08</td>
+              <td>Error(s) 
+Detected</td>
+<td>2016-11-03</td>
+<td>2016-11-03</td>
+              </tr>
+              <tr>
+              <td>5tfcz5anxhx057724</td>
+              <td>233442A</td>
+              <td> 17114</td>
+              <td>KBN Merchnadises Inc.</td>
+              <td>&nbsp;</td>
+              <td>A - Retail Sale</td>
+              <td>2016-11-29</td>
+              <td>2016-11-08</td>
+              <td>Error(s) 
+Detected</td>
+<td>2016-11-03</td>
+<td>2016-11-03</td>
+              </tr>
+              <tr>
               <td>5tfcz5anxhx057724</td>
               <td>233442A</td>
               <td> 17114</td>
